@@ -8,7 +8,7 @@ module.exports = {
     path: path.resolve(__dirname, `/build`)
   },
   devServer: {
-    contentBase: path.join(__dirname, `./`),
+    contentBase: path.join(__dirname),
     publicPath: "/build/",
     compress: true,
     port: 3001,
