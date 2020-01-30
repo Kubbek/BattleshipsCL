@@ -2,87 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="675c1561-46ea-4419-afaa-3a75539b4030" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/main.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/reset.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gulpfile.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/ship.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/ship1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/ship1_files/120594-84.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/ship1_files/120595-84.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/ship1_files/1463907-200.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/ship1_files/152122-84.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/ship1_files/1562265-200.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/ship1_files/1597472-200.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/ship1_files/1597473-200.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/ship1_files/1597474-200.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/ship1_files/1597475-200.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/ship1_files/1597476-200.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/ship1_files/1597477-200.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/ship1_files/1597486-200.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/ship1_files/196231-200.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/ship1_files/1987957-200.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/ship1_files/2052135-200.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/ship1_files/2052180-200.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/ship1_files/2052195-200.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/ship1_files/2052200-200.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/ship1_files/209268-200.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/ship1_files/215889-200.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/ship1_files/2412295-200.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/ship1_files/2415378-200.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/ship1_files/2428701-200.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/ship1_files/24635-200.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/ship1_files/2506975-200.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/ship1_files/2506976-200.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/ship1_files/2507030-200.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/ship1_files/2507045-200.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/ship1_files/2507057-200.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/ship1_files/2507107-200.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/ship1_files/2651005-200.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/ship1_files/2658278-200.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/ship1_files/2854938-200.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/ship1_files/2931611-200.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/ship1_files/2931687-200.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/ship1_files/3004323-200.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/ship1_files/3004361-200.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/ship1_files/44759-200.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/ship1_files/453534-200.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/ship1_files/53245-84.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/ship1_files/54774-84.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/ship1_files/55992-84.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/ship1_files/56469-84.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/ship1_files/57694-84.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/ship1_files/589535-200.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/ship1_files/5ac883e7e876359316293fcc26506500.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/ship1_files/76324-200.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/ship1_files/782852-84.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/ship1_files/782853-84.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/ship1_files/784382-200.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/ship1_files/784457-200.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/ship1_files/784462-200.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/ship1_files/82122-200.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/ship1_files/9270-200.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/ship1_files/960658-200.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/ship1_files/B23601142.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/ship1_files/analytics.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/ship1_files/f.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/ship1_files/inner.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/ship1_files/main-f721414944e33fe71b6e.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/ship1_files/main.f721414944e33fe71b6e.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/ship1_files/modernizr.min.6bd07f2cff65.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/ship1_files/outer.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/ship1_files/saved_resource" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/ship1_files/saved_resource(1)" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/Image.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/title.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scss/main.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/ship2.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/main.scss" beforeDir="false" afterPath="$PROJECT_DIR$/css/main.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/Image.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/Image.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/ships.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/ships.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webpack.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/webpack.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/title.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/title.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -118,9 +44,10 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../WAR_FER_S_53_Animacje_CSS/1_Zadania/5_Animacja_poruszanie_obiektu_po_ekranie" />
     <property name="list.type.of.created.stylesheet" value="SCSS" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -157,7 +84,8 @@
       <workItem from="1580138360175" duration="2037000" />
       <workItem from="1580206516281" duration="13435000" />
       <workItem from="1580220290531" duration="11861000" />
-      <workItem from="1580301741403" duration="4303000" />
+      <workItem from="1580301741403" duration="11762000" />
+      <workItem from="1580389224137" duration="10288000" />
     </task>
     <servers />
   </component>
@@ -181,18 +109,18 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="558" y="149" width="860" height="806" key="CommitChangelistDialog2" timestamp="1580233253187">
+    <state x="558" y="149" width="860" height="806" key="CommitChangelistDialog2" timestamp="1580399571423">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state x="558" y="149" width="860" height="806" key="CommitChangelistDialog2/67.27.1853.1053@67.27.1853.1053" timestamp="1580233253187" />
+    <state x="558" y="149" width="860" height="806" key="CommitChangelistDialog2/67.27.1853.1053@67.27.1853.1053" timestamp="1580399571423" />
     <state x="534" y="330" width="908" height="445" key="EditFileWatcherDialog" timestamp="1580225900338">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="534" y="330" width="908" height="445" key="EditFileWatcherDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1580225900338" />
-    <state x="776" y="310" width="424" height="484" key="FileChooserDialogImpl" timestamp="1580138409830">
+    <state x="776" y="310" width="790" height="484" key="FileChooserDialogImpl" timestamp="1580398176575">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state x="776" y="310" width="424" height="484" key="FileChooserDialogImpl/67.27.1853.1053@67.27.1853.1053" timestamp="1580138409830" />
+    <state x="776" y="310" width="790" height="484" key="FileChooserDialogImpl/67.27.1853.1053@67.27.1853.1053" timestamp="1580398176575" />
     <state width="1830" height="278" key="GridCell.Tab.0.bottom" timestamp="1580220747196">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
@@ -209,6 +137,14 @@
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state width="1830" height="278" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1580220747195" />
+    <state x="482" y="187" key="SettingsEditor" timestamp="1580314598092">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="482" y="187" key="SettingsEditor/67.27.1853.1053@67.27.1853.1053" timestamp="1580314598092" />
+    <state x="722" y="286" width="540" height="524" key="StructurePopup" timestamp="1580390915163">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="722" y="286" width="540" height="524" key="StructurePopup/67.27.1853.1053@67.27.1853.1053" timestamp="1580390915163" />
     <state x="167" y="127" width="1653" height="855" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1580206631144">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
@@ -225,9 +161,9 @@
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="657" y="253" key="run.anything.popup/67.27.1853.1053@67.27.1853.1053" timestamp="1580217620042" />
-    <state x="656" y="257" width="672" height="678" key="search.everywhere.popup" timestamp="1580229844265">
+    <state x="656" y="257" width="672" height="678" key="search.everywhere.popup" timestamp="1580395429546">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state x="656" y="257" width="672" height="678" key="search.everywhere.popup/67.27.1853.1053@67.27.1853.1053" timestamp="1580229844265" />
+    <state x="656" y="257" width="672" height="678" key="search.everywhere.popup/67.27.1853.1053@67.27.1853.1053" timestamp="1580395429546" />
   </component>
 </project>

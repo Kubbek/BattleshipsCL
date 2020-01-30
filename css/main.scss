@@ -2,33 +2,100 @@
 
 body{
   background: beige;
+  font-family: 'Kumar One', cursive;
 }
 
 h1{
   text-align: center;
   font-size: 80px;
   width: 100%;
-  mso-ansi-font-style: italic;
+  margin: 60px 0 60px 0;
+
 }
 
-.img{
-  width: 100%;
+.imgShip{
+  width: 256px;
+  height: 98px;
+  margin: 60px 0 20px 0;
+  animation-name:imgShip;
+  animation-duration: 10s;
+  animation-iteration-count: infinite;
+  animation-direction: alternate-reverse;
+}
+
+@keyframes imgShip {
+  0%{
+    transform: scale(1,1) translate(0);
+
+  }
+  50%{transform: scale(1,1) translate(50vw);}
+  51%{transform: scale(-1,1) translate(0vw);
+  }
+  99%{
+    transform: scale(-1,1) translate(0);
+
+  }
+  100%{
+    transform: scale(1,1) translate(0);
+
+  }
+
+}
+
+
+table{
   display: flex;
   justify-content: center;
-  margin: 20px 0 20px 0;
-}
-.divMap {
-  display: flex;
   margin: 0 auto;
 }
-table{
-  display: inline;
 
+tbody{
+  margin: 0 50px 0 50px;
 }
 
 td {
-  height: 40px;
-  width: 40px;
+  height: 30px;
+  width: 30px;
   border: 1px solid black;
   background: #00ABD8;
 }
+
+.ship {
+  background: grey;
+}
+
+.border {
+  background: darkgray;
+  border: none;
+  -webkit-box-shadow: inset 10px 10px 15px 0px rgba(0,0,0,0.23);
+  -moz-box-shadow: inset 10px 10px 15px 0px rgba(0,0,0,0.23);
+  box-shadow: inset 10px 10px 15px 0px rgba(0,0,0,0.23);
+
+}
+
+.hit {
+  background: red;
+}
+
+.miss {
+  background: darkcyan;
+}
+
+.divCounter {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+
+.counter{
+  margin: 50px 120px 0 120px;
+  font-size: 30px;
+}
+.pC{
+  color: green;
+}
+
+.pE {
+  color: red;
+}
+
